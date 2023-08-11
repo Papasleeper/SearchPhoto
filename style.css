@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	text-align: center;
+	padding: 2rem 15rem;
+}
+
+input {
+	border: 1px solid gray;
+	border-radius: 24px;
+	width: 50%;
+	height: 50px;
+	padding: 20px;
+	margin-bottom: 24px;
+}
+
+input:focus {
+	/*outline: none;*/
+}
